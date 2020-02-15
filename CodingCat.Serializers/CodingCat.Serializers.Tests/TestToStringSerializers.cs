@@ -1,6 +1,6 @@
-﻿using System;
-using CodingCat.Serializers.Impls;
+﻿using CodingCat.Serializers.Impls;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace CodingCat.Serializers.Tests
 {
